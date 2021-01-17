@@ -11,7 +11,7 @@ A website created to quiz some javascript
 * Popper.js 
 
 ## Screenshot
-![screenshot of the password generator](./website-screenshot.png)
+![screenshot of the password generator](./assets/images/screenshot.png)
 
 ## Link to Website
-https://jcc83267.github.io/04/
+https://jcc83267.github.io/04-JavaScript-Quiz/
